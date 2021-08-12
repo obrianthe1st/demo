@@ -1,1 +1,1 @@
-hello my friend welcome to my course on github
+hello my friend welcome to my course on github it's going to be phenomenal.

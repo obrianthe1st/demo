@@ -17,3 +17,5 @@ print("jsjs")
 
 for i in range(12):
     print(i)
+    
+numbers = 12
